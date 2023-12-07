@@ -1,13 +1,13 @@
 # Projeto -> Ada-Lovelace-page
 
-## Link da página publicada no GitHub Pages:
+### Link da página publicada no GitHub Pages:
 https://marcia-moreira.github.io/ada-lovelace-page/
 
-# Link do vídeo publicado no YouTube explicando a minha resolução do caso:
+### Link do vídeo publicado no YouTube explicando a minha resolução do caso:
 https://youtu.be/5VNT0j8MyT4
 
 # Solicitações do Projeto:
-## Sobre a publicação:
+### Sobre a publicação:
 "Publicar uma página pré-existente no GitHub Pages
 Ativar tela cheia
 Neste desafio você deverá publicar uma página sobre a incrível Ada Lovelace, uma das pioneiras da ciência da computação.
@@ -18,7 +18,7 @@ Se você ainda não teve experiência publicando uma página com o GitHub Pages,
 Na atividade a seguir, você deverá informar o LINK do seu repositório e o LINK da página publicada
 Estamos animadas para ver suas contribuições e o impacto que este projeto terá em seu percurso de aprendizagem. Boa sorte e divirta-se!"
 
-## Sobre o Vídeo:
+### Sobre o Vídeo:
 "PERGUNTA 1 DO 1
 Grave um vídeo explicando qual foi o raciocínio da sua resolução no desafio "Publicar uma página pré-existente no GitHub Pages". O vídeo precisa ter até 3 minutos. É necessário que você apareça no vídeo. 
 
