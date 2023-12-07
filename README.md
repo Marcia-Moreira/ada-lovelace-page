@@ -19,8 +19,7 @@ Na atividade a seguir, você deverá informar o LINK do seu repositório e o LIN
 Estamos animadas para ver suas contribuições e o impacto que este projeto terá em seu percurso de aprendizagem. Boa sorte e divirta-se!"
 
 ### Sobre o Vídeo:
-"PERGUNTA 1 DO 1
-Grave um vídeo explicando qual foi o raciocínio da sua resolução no desafio "Publicar uma página pré-existente no GitHub Pages". O vídeo precisa ter até 3 minutos. É necessário que você apareça no vídeo. 
+"Grave um vídeo explicando qual foi o raciocínio da sua resolução no desafio "Publicar uma página pré-existente no GitHub Pages". O vídeo precisa ter até 3 minutos. É necessário que você apareça no vídeo. 
 
 ATENÇÃO: Informe o link (URL) do vídeo da resolução do desafio proposto
 
